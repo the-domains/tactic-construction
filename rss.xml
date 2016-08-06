@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TACTIC CONSTRUCTION]]></title>
+        <description><![CDATA[TACTIC CONSTRUCTION]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Aug 2016 23:38:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Built for Construction]]></title>
+            <description><![CDATA[<article><h1>Built for Construction</h1><p>Constructorator is a website dedicated to helping construction field hands learn, grow, collaborate and share information.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/123a6fbf85a4f1f3305d225f3dd824ad/noop.png?input=http%3A%2F%2Fwww.constructorator.com%2Fuploads%2F2%2F6%2F0%2F5%2F26059504%2F5558553.png"></article>]]></description>
+            <link>http://www.constructorator.com/</link>
+            <guid isPermaLink="false">b5443ffd-0c3f-41fa-a6a2-f2b4bdf2a0dc</guid>
+            <pubDate>Sat, 06 Aug 2016 23:38:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
