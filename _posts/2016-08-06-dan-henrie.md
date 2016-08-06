@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ​Field Production Manager at Okland Construction
-datePublished: '2016-08-06T23:44:28.769Z'
-dateModified: '2016-08-06T23:44:07.082Z'
+datePublished: '2016-08-06T23:46:22.661Z'
+dateModified: '2016-08-06T23:44:37.057Z'
 title: ''
 author: []
 via: {}
