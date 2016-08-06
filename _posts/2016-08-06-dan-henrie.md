@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ​Field Production Manager at Okland Construction
-datePublished: '2016-08-06T23:42:58.677Z'
-dateModified: '2016-08-06T23:42:25.977Z'
-title: Dan Henrie
+datePublished: '2016-08-06T23:44:28.769Z'
+dateModified: '2016-08-06T23:44:07.082Z'
+title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-06-dan-henrie.md
@@ -18,9 +18,7 @@ url: dan-henrie/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbe027b7-7ab4-4aef-87ef-bf4b23e303b3.jpg)
-
-## Dan Henrie
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e38d2d6-2b4c-4cae-9a5a-409f06316912.jpg)
 
 ​Field Production Manager at Okland Construction
 
